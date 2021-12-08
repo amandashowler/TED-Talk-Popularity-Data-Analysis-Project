@@ -32,7 +32,8 @@ My new strategy using ratings and views to classify popularity showed a much str
 
 With the talks classified as popular or unpopular, it was finally time to delve further into TED talk popularity. I started by visualizing the number of popular TED talks published per month and weekday. <br>
 
-<img src="month_day.png" width=600>
+|<img src="month_day.png" width=600>|
+|-----------------------------------|
 _Section 8: Task 2 Graph showing month and day popular TED talks are published_
 <br>
 
