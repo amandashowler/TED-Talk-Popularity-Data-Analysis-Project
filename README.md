@@ -5,7 +5,7 @@
 ## Introduction
 Almost everyone has watched at least one TED Talk. According to the TED blog, in 2012, TED talks were being viewed at a rate of 1.5 million times a day, and TED surpassed one billion video views[1]. It is not surprising that TED talks are so widely popular as they are free videos from industry experts that are available anytime, anywhere. Since I was young, I was fascinated by the ideas presented in the talks, and they inspired me to learn. Looking back, I watched TED Talks that were widespread and viral on social media platforms, namely Youtube and Facebook. I have seen many of the most viral TED Talks but there are hundreds I have never seen which caused me to wonder why some ideas presented in TED Talks spread to a viral audience while others do not. To delve further into TED Talk popularity, I analyzed the 'TED Talks' dataset which was extracted from TED.com by Rounak Banik and is available at https://www.kaggle.com/rounakbanik/ted-talks. 
 <p align="centre">
-  <img src="TED_intro.png" width=700>
+  <img width=700 src="TED_intro.png">
 </p>
 
 ***
@@ -17,7 +17,7 @@ So let me explain, I found a playlist constructed by TED called "The most popula
 
 |<img src="every_corr.png" width=400> | <img src="wrong_pop.png" width=400>|
 |:------------------------------------|:----------------------------------|
-| _Section 3: Task 3 Graph using All TED Talk Data_ | _Section 3: Task 3 Graph using Popular Classification based on the playlist_ |
+| _Section 3: Task 3 Graph using All TED Talk Data_ | _Section 3: Task 3 Graph using Popular Classification based on playlist_ |
 <br>
 
 
