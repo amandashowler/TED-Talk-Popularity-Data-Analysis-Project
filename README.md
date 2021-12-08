@@ -16,27 +16,29 @@ So let me explain, I found a playlist constructed by TED called "The most popula
 
 |<img src="every_corr.png" width=400> | <img src="wrong_pop.png" width=400>|
 |:------------------------------------|:----------------------------------|
-| Section 3: Task 3 Graph using All TED Talk Data | Section 3: Task 3 Graph using Popular Classification based on the playlist |
+| _Section 3: Task 3 Graph using All TED Talk Data_ | _Section 3: Task 3 Graph using Popular Classification based on the playlist_ |
 
 
 In the pursuit of TED talk popularity, it was back to the drawing board to discover another idea that would be more successful. The Cambridge Dictionary defines popularity as "liked, enjoyed, or supported by many people" [2]. I had found TED talks that had been seen by many people but how could I assess if the people liked or enjoyed the talk? The ratings, eureka! The 'ratings' column provided a count of the number of people who rated a talk funny, inspiring, longwinded, confusing or something else. I categorized each of the 14 ratings as a popular or unpopular rating by if the rating was positive or negative. If I enjoyed a talk, I am more likely to rate it fascinating rather than obnoxious. A ratio between popular and unpopular rating counts was born and I had a measure of how much viewers liked or disliked a talk. My new definition of popularity was if a talk had a popularity ratio greater than 10 and it had over 1 million views, I classified it as popular. 
 
 
 <img src="success.png" width=400>
-*Section 6: Task 3 Graph using Popular Classification based on ratings and views*
-
+_Section 6: Task 3 Graph using Popular Classification based on ratings and views_
+<br>
 
 My new strategy using ratings and views to classify popularity showed a much stronger relationship between attributes. An interesting finding is that views, comments and languages have a moderate to strong relationship to many attributes except for duration and number of speakers. Both the number of speakers and duration columns have little relationship with other attributes. To me, this is reasonable as I don't think how long a TED talk is or how many presenters there are would have as big of an impact on TED talk popularity compared to other attributes. 
 
 With the talks classified as popular or unpopular, it was finally time to delve further into TED talk popularity. I started by visualizing the number of popular TED talks published per month and weekday. <br>
 
 <img src="month_day.png" width=600>
-*Section 8: Task 2 Graph showing month and day popular TED talks are published*
+_Section 8: Task 2 Graph showing month and day popular TED talks are published_
+<br>
 
 The insights I discovered from this graph are that popular TED talks are hardly ever posted on the weekend and the most common time to post them is a Wednesday in March. The other visualization I generated was a pie chart to show the top 10 occupations with the realm of popular TED talks. <br>
 
 <img src="pie.png" width=600>
-*Section 8: Task 4 Graph showing top 10 most common occupations within popular TED talks*
+_Section 8: Task 4 Graph showing top 10 most common occupations within popular TED talks_
+<br>
 
 From this graph, I learned that popular TED talk speakers are most commonly writers. This finding is reasonable as I think an engaging and interesting talk tells a story the viewers can follow and relate to. A writer writes stories all the time and as seen through the data, the speakers' who are writers give the highest number of popular TED talks. 
 
