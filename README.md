@@ -4,8 +4,9 @@
 
 ## Introduction
 Almost everyone has watched at least one TED Talk. According to the TED blog, in 2012, TED talks were being viewed at a rate of 1.5 million times a day, and TED surpassed one billion video views[1]. It is not surprising that TED talks are so widely popular as they are free videos from industry experts that are available anytime, anywhere. Since I was young, I was fascinated by the ideas presented in the talks, and they inspired me to learn. Looking back, I watched TED Talks that were widespread and viral on social media platforms, namely Youtube and Facebook. I have seen many of the most viral TED Talks but there are hundreds I have never seen which caused me to wonder why some ideas presented in TED Talks spread to a viral audience while others do not. To delve further into TED Talk popularity, I analyzed the 'TED Talks' dataset which was extracted from TED.com by Rounak Banik and is available at https://www.kaggle.com/rounakbanik/ted-talks. 
-
-<img src="TED_intro.png" width=700>
+<p align="centre">
+  <img src="TED_intro.png" width=700>
+</p>
 
 ***
 
@@ -23,7 +24,8 @@ So let me explain, I found a playlist constructed by TED called "The most popula
 In the pursuit of TED talk popularity, it was back to the drawing board to discover another idea that would be more successful. The Cambridge Dictionary defines popularity as "liked, enjoyed, or supported by many people" [2]. I had found TED talks that had been seen by many people but how could I assess if the people liked or enjoyed the talk? The ratings, eureka! The 'ratings' column provided a count of the number of people who rated a talk funny, inspiring, longwinded, confusing or something else. I categorized each of the 14 ratings as a popular or unpopular rating by if the rating was positive or negative. If I enjoyed a talk, I am more likely to rate it fascinating rather than obnoxious. A ratio between popular and unpopular rating counts was born and I had a measure of how much viewers liked or disliked a talk. My new definition of popularity was if a talk had a popularity ratio greater than 10 and it had over 1 million views, I classified it as popular. 
 
 
-<img src="success.png" width=400>
+|<img src="success.png" width=400>|
+|---------------------------------|
 _Section 6: Task 3 Graph using Popular Classification based on ratings and views_
 <br>
 
@@ -40,7 +42,8 @@ _Section 8: Task 2 Graph showing month and day popular TED talks are published_
 
 The insights I discovered from this graph are that popular TED talks are hardly ever posted on the weekend and the most common time to post them is a Wednesday in March. The other visualization I generated was a pie chart to show the top 10 occupations with the realm of popular TED talks. <br>
 
-<img src="pie.png" width=600>
+|<img src="pie.png" width=600>|
+|-----------------------------|
 _Section 8: Task 4 Graph showing top 10 most common occupations within popular TED talks_
 <br>
 
