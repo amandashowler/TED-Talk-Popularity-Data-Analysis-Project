@@ -1,4 +1,4 @@
-# What Ideas are worth spreading?: Ted Talk Popularity Explained by Data
+# What Ideas are Worth Spreading?: TED Talk Popularity Explained by Data
 
 ***
 
